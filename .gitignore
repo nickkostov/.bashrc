@@ -1,4 +1,4 @@
 .vscode
-./awscli*
+aws/
 backup-rc
 awscliv*.zip
